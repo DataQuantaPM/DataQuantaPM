@@ -43,7 +43,7 @@ Analyzed user retention behavior to understand how different user segments conti
 
 ---
 
-### 3. Pricing Page Experiment Case Study
+### 3. Is_High_Shipping_Cost_Driving_Profit_Decline_Across_Regions
 Designed and analyzed a pricing page experiment to evaluate how pricing changes may affect trial starts, purchases, and revenue.
 
 **Key questions:**
