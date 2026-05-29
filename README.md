@@ -13,6 +13,8 @@ I’m building my path toward Product Analyst roles, with a focus on SaaS produc
 - SQL-based Data Analysis
 - Dashboard & Insight Communication
 
+<br>
+
 ## Featured Projects
 
 ### 1. SaaS Funnel Conversion Analysis
@@ -52,14 +54,20 @@ Designed and analyzed a pricing page experiment to evaluate how pricing changes 
 **Tools:** SQL, Spreadsheet, Experiment Analysis  
 **Link:** [Project Link]
 
+<br>
+
 ## Tools I Use
 
 SQL, Excel/Google Sheets, Tableau/Power BI, Python basics, GitHub, Canva.
+
+<br>
 
 ## How I Think About Analysis
 
 I try to connect data with product decisions.  
 For me, analysis is not just about charts, but about understanding user behavior, identifying friction, and recommending practical actions that can improve activation, retention, or revenue.
+
+<br>
 
 ## Open To
 
